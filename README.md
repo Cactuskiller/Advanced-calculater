@@ -31,4 +31,4 @@ This repository contains a Java program for an animated calculator GUI. The calc
 - This project is created by Daniah Ayad Tareq Al-sultani
 
 ## License:
-This project is licensed under 
+This project is licensed under Learning Purpose License (LPL) you can view the license file <https://github.com/Cactuskiller/Advanced-calculater/blob/master/licence>
