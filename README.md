@@ -1,5 +1,7 @@
 # Animated Calculator
 # you can view the full project in the master branch
+click here to view => <https://github.com/Cactuskiller/Advanced-calculater/tree/master>
+
 This repository contains a Java program for an animated calculator GUI. The calculator supports basic arithmetic operations, mathematical functions, constants, and more.
 
 ## Features:
